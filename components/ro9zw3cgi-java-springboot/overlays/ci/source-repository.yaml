@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ro9zw3cgi-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ro9zw3cgi-java-springboot
